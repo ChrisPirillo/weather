@@ -5,4 +5,6 @@ Get real-time, hyper-local weather forecasts with Weather or Not. Check temperat
 
 ---
 
+![Screenshot](https://github.com/ChrisPirillo/weather/blob/main/assets/screenshot.png?raw=true)
+
 * Try it now: [https://pirillo.com/arcade/weather.html](https://pirillo.com/arcade/weather.html)
